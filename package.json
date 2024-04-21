@@ -1,0 +1,23 @@
+{
+  "name": "ui-superset.js",
+  "version": "0.0.1",
+  "description": "A simple libary with components for React, React Native and many more",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"No Test Command\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "ui-superset.js"
+  },
+  "keywords": [
+    "React Native",
+    "components",
+    "styled"
+  ],
+  "author": "HannesScript",
+  "license": "ISC",
+  "dependencies": {
+    "react-native": "^0.73.6"
+  }
+}
